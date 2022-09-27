@@ -1,0 +1,34 @@
+
+<div class="container mt-5">
+    <img class="col-3"
+        src="https://th.bing.com/th/id/R.53423352e19eb503b82ff9ab9e8a2dd2?rik=cswEEDGnEjcGQQ&pid=ImgRaw&r=0" alt="">
+    <button class="col-3 btn btn-primary btn-cadastrar"  routerLink="cadastro">Cadastrar um ponto turístico</button>
+
+    <div class="row mt-2 col-12">
+        <div class="col-9">
+            <input [(ngModel)]="search"  class="form-control" placeholder="buscar  pontos turísticos" />
+        </div>
+        <button class="btn btn-success col-3" (click)="filtrar()">Buscar</button>
+    </div>
+
+    <div class="mt-5">
+        <article class="cont-artigo mt-1" *ngFor="let post of tableSizes
+                | paginate
+                : {
+                    itemsPerPage: tableSize,
+                    currentPage: page,
+                    totalItems: count 
+                    };
+            ">
+            <h3>{{post.nome}}</h3>
+            {{post.descricao}}
+
+            <button class="btn-ver-mais" [routerLink]="['visualizar/',post.id]">Ver detalhes..</button>
+        </article>
+
+    </div>
+    <br>
+    <pagination-controls class="mt-2" previousLabel="Voltar" nextLabel="Avançar"
+        (pageChange)="onTableDataChange($event)">
+    </pagination-controls>
+</div>

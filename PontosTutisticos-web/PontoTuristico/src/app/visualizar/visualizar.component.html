@@ -1,0 +1,52 @@
+<div class="container mt-5">
+    <img class="col-3"
+      src="https://th.bing.com/th/id/R.53423352e19eb503b82ff9ab9e8a2dd2?rik=cswEEDGnEjcGQQ&pid=ImgRaw&r=0" alt="">
+  
+  
+    <form class="mt-2">
+      <div class="form-group">
+        <label for="exampleFormControlInput1"><b>Nome</b></label>
+        <input value="{{pontoTuristicoModel.nome}}" disabled type="email" class="form-control" id="exampleFormControlInput1" placeholder="nome...">
+      </div>
+      <div class="row">
+        <label for="exampleFormControlSelect1"><b>Localização</b></label>
+        <div class="form-group col-1">
+        
+          <div>
+            <span>UF</span>
+          </div>
+  
+            <select disabled class="form-control " id="exampleFormControlSelect1">
+              <option >{{nomeEstado}}</option>
+         
+
+            </select>
+  
+            
+        </div>
+  
+        <div class="col-11 form-group">
+          <label for="exampleFormControlSelect1">Cidade</label>
+            <input value="{{pontoTuristicoModel.cidade}}" disabled type="email" class="form-control" id="exampleFormControlInput1" placeholder="Cidade...">
+        
+        </div>
+  
+    
+      </div>
+  
+  
+      <div class="form-group">
+        <label for="exampleFormControlSelect2"><b>Referência</b></label>
+        <input value="{{pontoTuristicoModel.referencia}}" disabled type="email" class="form-control" id="exampleFormControlInput1" placeholder="Referência..">
+  
+      </div>
+      <div class="form-group">
+        <label for="exampleFormControlTextarea1"><b>Descritivo:</b></label>
+        <textarea  value="{{pontoTuristicoModel.descricao}}" disabled class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+      </div>
+  
+      <div class="container mt-5">
+           <button class="btn btn-primary" routerLink="/">Voltar</button>
+      </div>
+    </form>
+  </div>

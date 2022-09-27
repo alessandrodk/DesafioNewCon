@@ -1,0 +1,11 @@
+img{
+    height: 79px;
+    width: 100px;
+    border-radius: 11px;
+    border: 2px solid #44a144a3;
+}
+
+    .btn-cadastrar{
+        float: right;
+        background-color: #0e4d62 !important;
+    }

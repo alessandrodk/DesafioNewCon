@@ -1,0 +1,52 @@
+<div class="container mt-5">
+  <img class="col-3"
+    src="https://th.bing.com/th/id/R.53423352e19eb503b82ff9ab9e8a2dd2?rik=cswEEDGnEjcGQQ&pid=ImgRaw&r=0" alt="">
+
+
+  <form  class="mt-2" (ngSubmit)="cadastrarPontoTuristico()" [formGroup]="PontoTuristicoForm">
+    <div class="form-group">
+      <label for="exampleformControlNameInput1"><b>Nome</b></label>
+      <input formControlName="nome"  class="form-control" id="exampleformControlNameInput1" placeholder="nome..."  >
+    </div>
+    <div class="row">
+      <label for="exampleformControlNameSelect1"><b>Localização</b></label>
+      <div class="form-group col-1">
+      
+        <div>
+          <span>UF</span>
+        </div>
+
+          <select formControlName="estado"  class="form-select " id="exampleformControlNameSelect1" (change)="buscarCidade($event.target)">
+            <option *ngFor="let item of estados" value="{{item.id}}">{{item.sigla}}</option>
+            
+          </select>
+
+          
+      </div>
+
+      <div class="col-11 form-group">
+        <label for="exampleformControlNameSelect1">Cidade</label>
+          <input formControlName="cidade"      class="form-control" id="exampleformControlNameInput1" placeholder="Cidade...">
+      
+      </div>
+
+  
+    </div>
+
+
+    <div class="form-group">
+      <label for="exampleformControlNameSelect2"><b>Referência</b></label>
+      <input formControlName="referencia"  class="form-control" id="exampleformControlNameInput1" placeholder="Referência..">
+
+    </div>
+    <div class="form-group">
+      <label for="exampleformControlNameTextarea1"><b>Descritivo:</b></label>
+      <textarea  formControlName="descricao" class="form-control" id="exampleformControlNameTextarea1" rows="3"></textarea>
+    </div>
+
+    <div class="container mt-5">
+         <button class="btn btn-primary" routerLink="/">Voltar</button>
+         <button class="btn btn-primary btn-cadastrar">Cadastrar</button>
+    </div>
+  </form>
+</div>
