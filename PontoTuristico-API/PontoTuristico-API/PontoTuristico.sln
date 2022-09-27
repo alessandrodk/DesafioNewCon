@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business", "Business\Business.csproj", "{54153EE2-CFEA-443A-9696-7E55BD622D9C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{EEBBFB57-B7E8-46E0-BC84-EB5CFFEC64C9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aplication", "Aplication", "{52709C53-08FF-494D-9942-70E933F8A748}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business.app", "Business.app", "{862686EC-12E3-40FE-8988-3AD590E334E3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAcess\DataAccess.csproj", "{02D2388A-EB88-414C-B9B0-4D8CC218A0E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataAccess.app", "DataAccess.app", "{EDFE25C8-368F-42E3-9E3A-2C8C33A87228}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PontoTuristico", "Study.Assistant\PontoTuristico.csproj", "{196DBCD2-60AE-43C4-A04C-D529BB05E2A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54153EE2-CFEA-443A-9696-7E55BD622D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54153EE2-CFEA-443A-9696-7E55BD622D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54153EE2-CFEA-443A-9696-7E55BD622D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54153EE2-CFEA-443A-9696-7E55BD622D9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02D2388A-EB88-414C-B9B0-4D8CC218A0E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02D2388A-EB88-414C-B9B0-4D8CC218A0E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02D2388A-EB88-414C-B9B0-4D8CC218A0E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02D2388A-EB88-414C-B9B0-4D8CC218A0E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{196DBCD2-60AE-43C4-A04C-D529BB05E2A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{196DBCD2-60AE-43C4-A04C-D529BB05E2A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{196DBCD2-60AE-43C4-A04C-D529BB05E2A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{196DBCD2-60AE-43C4-A04C-D529BB05E2A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{54153EE2-CFEA-443A-9696-7E55BD622D9C} = {862686EC-12E3-40FE-8988-3AD590E334E3}
+		{52709C53-08FF-494D-9942-70E933F8A748} = {EEBBFB57-B7E8-46E0-BC84-EB5CFFEC64C9}
+		{862686EC-12E3-40FE-8988-3AD590E334E3} = {EEBBFB57-B7E8-46E0-BC84-EB5CFFEC64C9}
+		{02D2388A-EB88-414C-B9B0-4D8CC218A0E4} = {EDFE25C8-368F-42E3-9E3A-2C8C33A87228}
+		{EDFE25C8-368F-42E3-9E3A-2C8C33A87228} = {EEBBFB57-B7E8-46E0-BC84-EB5CFFEC64C9}
+		{196DBCD2-60AE-43C4-A04C-D529BB05E2A2} = {52709C53-08FF-494D-9942-70E933F8A748}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87FB6D2F-B123-4228-8C05-76B5CD38D398}
+	EndGlobalSection
+EndGlobal

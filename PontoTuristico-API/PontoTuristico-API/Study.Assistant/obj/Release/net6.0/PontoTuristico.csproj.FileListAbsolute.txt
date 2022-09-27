@@ -1,0 +1,158 @@
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\appsettings.Development.json
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\appsettings.json
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\PontoTuristico.exe
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\PontoTuristico.deps.json
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\PontoTuristico.runtimeconfig.json
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\PontoTuristico.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\PontoTuristico.pdb
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\AutoMapper.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\FluentResults.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\Humanizer.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\Microsoft.Identity.Client.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\Microsoft.OpenApi.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\System.Drawing.Common.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\System.Runtime.Caching.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\System.Security.Permissions.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\System.Windows.Extensions.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\Business.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\DataAccess.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\DataAccess.pdb
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\bin\Release\net6.0\Business.pdb
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\obj\Release\net6.0\PontoTuristico.csproj.AssemblyReference.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\obj\Release\net6.0\PontoTuristico.GeneratedMSBuildEditorConfig.editorconfig
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\obj\Release\net6.0\PontoTuristico.AssemblyInfoInputs.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\obj\Release\net6.0\PontoTuristico.AssemblyInfo.cs
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\obj\Release\net6.0\PontoTuristico.csproj.CoreCompileInputs.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\obj\Release\net6.0\PontoTuristico.MvcApplicationPartsAssemblyInfo.cs
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\obj\Release\net6.0\PontoTuristico.MvcApplicationPartsAssemblyInfo.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\obj\Release\net6.0\staticwebassets.build.json
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\obj\Release\net6.0\staticwebassets.development.json
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\obj\Release\net6.0\scopedcss\bundle\PontoTuristico.styles.css
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\obj\Release\net6.0\PontoTuristico.csproj.CopyComplete
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\obj\Release\net6.0\PontoTuristico.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\obj\Release\net6.0\refint\PontoTuristico.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\obj\Release\net6.0\PontoTuristico.pdb
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\obj\Release\net6.0\PontoTuristico.genruntimeconfig.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\Study.Assistant\obj\Release\net6.0\ref\PontoTuristico.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\appsettings.Development.json
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\appsettings.json
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\PontoTuristico.exe
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\PontoTuristico.deps.json
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\PontoTuristico.runtimeconfig.json
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\PontoTuristico.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\PontoTuristico.pdb
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\AutoMapper.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\FluentResults.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\Humanizer.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\Microsoft.Identity.Client.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\System.Drawing.Common.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\System.Runtime.Caching.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\System.Security.Permissions.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\Business.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\DataAccess.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\DataAccess.pdb
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\bin\Release\net6.0\Business.pdb
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\obj\Release\net6.0\PontoTuristico.csproj.AssemblyReference.cache
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\obj\Release\net6.0\PontoTuristico.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\obj\Release\net6.0\PontoTuristico.AssemblyInfoInputs.cache
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\obj\Release\net6.0\PontoTuristico.AssemblyInfo.cs
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\obj\Release\net6.0\PontoTuristico.csproj.CoreCompileInputs.cache
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\obj\Release\net6.0\PontoTuristico.MvcApplicationPartsAssemblyInfo.cs
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\obj\Release\net6.0\PontoTuristico.MvcApplicationPartsAssemblyInfo.cache
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\obj\Release\net6.0\staticwebassets.build.json
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\obj\Release\net6.0\staticwebassets.development.json
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\obj\Release\net6.0\scopedcss\bundle\PontoTuristico.styles.css
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\obj\Release\net6.0\PontoTuristico.csproj.CopyComplete
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\obj\Release\net6.0\PontoTuristico.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\obj\Release\net6.0\refint\PontoTuristico.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\obj\Release\net6.0\PontoTuristico.pdb
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\obj\Release\net6.0\PontoTuristico.genruntimeconfig.cache
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\Study.Assistant\obj\Release\net6.0\ref\PontoTuristico.dll

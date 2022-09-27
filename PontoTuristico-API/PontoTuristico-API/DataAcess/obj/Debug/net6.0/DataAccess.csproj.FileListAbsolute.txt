@@ -1,0 +1,87 @@
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\AJUDA-MAIS\CÓDIGO FONTES\AJUDA MAIS  API\Ajuda.Mais\DataAcess\bin\Debug\net6.0\DataAccess.deps.json
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\AJUDA-MAIS\CÓDIGO FONTES\AJUDA MAIS  API\Ajuda.Mais\DataAcess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\AJUDA-MAIS\CÓDIGO FONTES\AJUDA MAIS  API\Ajuda.Mais\DataAcess\bin\Debug\net6.0\DataAccess.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\AJUDA-MAIS\CÓDIGO FONTES\AJUDA MAIS  API\Ajuda.Mais\DataAcess\bin\Debug\net6.0\DataAccess.pdb
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\AJUDA-MAIS\CÓDIGO FONTES\AJUDA MAIS  API\Ajuda.Mais\DataAcess\bin\Debug\net6.0\Business.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\AJUDA-MAIS\CÓDIGO FONTES\AJUDA MAIS  API\Ajuda.Mais\DataAcess\bin\Debug\net6.0\Business.pdb
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\AJUDA-MAIS\CÓDIGO FONTES\AJUDA MAIS  API\Ajuda.Mais\DataAcess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\AJUDA-MAIS\CÓDIGO FONTES\AJUDA MAIS  API\Ajuda.Mais\DataAcess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\AJUDA-MAIS\CÓDIGO FONTES\AJUDA MAIS  API\Ajuda.Mais\DataAcess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\AJUDA-MAIS\CÓDIGO FONTES\AJUDA MAIS  API\Ajuda.Mais\DataAcess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\AJUDA-MAIS\CÓDIGO FONTES\AJUDA MAIS  API\Ajuda.Mais\DataAcess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\AJUDA-MAIS\CÓDIGO FONTES\AJUDA MAIS  API\Ajuda.Mais\DataAcess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\AJUDA-MAIS\CÓDIGO FONTES\AJUDA MAIS  API\Ajuda.Mais\DataAcess\obj\Debug\net6.0\DataAccess.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\AJUDA-MAIS\CÓDIGO FONTES\AJUDA MAIS  API\Ajuda.Mais\DataAcess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\AJUDA-MAIS\CÓDIGO FONTES\AJUDA MAIS  API\Ajuda.Mais\DataAcess\obj\Debug\net6.0\DataAccess.pdb
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\AJUDA-MAIS\CÓDIGO FONTES\AJUDA MAIS  API\Ajuda.Mais\DataAcess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\AJUDA-MAIS\CÓDIGO FONTES\AJUDA MAIS  API\Ajuda.Mais\DataAcess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\STUDY ASSISTANT\CÓDIGO FONTES\AJUDA MAIS  API\Ajuda.Mais\DataAcess\bin\Debug\net6.0\DataAccess.deps.json
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\STUDY ASSISTANT\CÓDIGO FONTES\AJUDA MAIS  API\Ajuda.Mais\DataAcess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\STUDY ASSISTANT\CÓDIGO FONTES\AJUDA MAIS  API\Ajuda.Mais\DataAcess\bin\Debug\net6.0\DataAccess.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\STUDY ASSISTANT\CÓDIGO FONTES\AJUDA MAIS  API\Ajuda.Mais\DataAcess\bin\Debug\net6.0\DataAccess.pdb
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\STUDY ASSISTANT\CÓDIGO FONTES\AJUDA MAIS  API\Ajuda.Mais\DataAcess\bin\Debug\net6.0\Business.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\STUDY ASSISTANT\CÓDIGO FONTES\AJUDA MAIS  API\Ajuda.Mais\DataAcess\bin\Debug\net6.0\Business.pdb
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\STUDY ASSISTANT\CÓDIGO FONTES\AJUDA MAIS  API\Ajuda.Mais\DataAcess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\STUDY ASSISTANT\CÓDIGO FONTES\AJUDA MAIS  API\Ajuda.Mais\DataAcess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\STUDY ASSISTANT\CÓDIGO FONTES\AJUDA MAIS  API\Ajuda.Mais\DataAcess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\STUDY ASSISTANT\CÓDIGO FONTES\AJUDA MAIS  API\Ajuda.Mais\DataAcess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\STUDY ASSISTANT\CÓDIGO FONTES\AJUDA MAIS  API\Ajuda.Mais\DataAcess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\STUDY ASSISTANT\CÓDIGO FONTES\AJUDA MAIS  API\Ajuda.Mais\DataAcess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\STUDY ASSISTANT\CÓDIGO FONTES\AJUDA MAIS  API\Ajuda.Mais\DataAcess\obj\Debug\net6.0\DataAccess.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\STUDY ASSISTANT\CÓDIGO FONTES\AJUDA MAIS  API\Ajuda.Mais\DataAcess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\STUDY ASSISTANT\CÓDIGO FONTES\AJUDA MAIS  API\Ajuda.Mais\DataAcess\obj\Debug\net6.0\DataAccess.pdb
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\STUDY ASSISTANT\CÓDIGO FONTES\AJUDA MAIS  API\Ajuda.Mais\DataAcess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\STUDY ASSISTANT\CÓDIGO FONTES\AJUDA MAIS  API\Ajuda.Mais\DataAcess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\STUDY ASSISTANT\CÓDIGO FONTES\STUDY ASSISTANT  API\Study.Assistant\DataAcess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\STUDY ASSISTANT\CÓDIGO FONTES\STUDY ASSISTANT  API\Study.Assistant\DataAcess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\STUDY ASSISTANT\CÓDIGO FONTES\STUDY ASSISTANT  API\Study.Assistant\DataAcess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\STUDY ASSISTANT\CÓDIGO FONTES\STUDY ASSISTANT  API\Study.Assistant\DataAcess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\STUDY ASSISTANT\CÓDIGO FONTES\STUDY ASSISTANT  API\Study.Assistant\DataAcess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\STUDY ASSISTANT\CÓDIGO FONTES\STUDY ASSISTANT  API\Study.Assistant\DataAcess\obj\Debug\net6.0\DataAccess.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\STUDY ASSISTANT\CÓDIGO FONTES\STUDY ASSISTANT  API\Study.Assistant\DataAcess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\STUDY ASSISTANT\CÓDIGO FONTES\STUDY ASSISTANT  API\Study.Assistant\DataAcess\obj\Debug\net6.0\DataAccess.pdb
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\STUDY ASSISTANT\CÓDIGO FONTES\STUDY ASSISTANT  API\Study.Assistant\DataAcess\bin\Debug\net6.0\DataAccess.deps.json
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\STUDY ASSISTANT\CÓDIGO FONTES\STUDY ASSISTANT  API\Study.Assistant\DataAcess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\STUDY ASSISTANT\CÓDIGO FONTES\STUDY ASSISTANT  API\Study.Assistant\DataAcess\bin\Debug\net6.0\DataAccess.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\STUDY ASSISTANT\CÓDIGO FONTES\STUDY ASSISTANT  API\Study.Assistant\DataAcess\bin\Debug\net6.0\DataAccess.pdb
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\STUDY ASSISTANT\CÓDIGO FONTES\STUDY ASSISTANT  API\Study.Assistant\DataAcess\bin\Debug\net6.0\Business.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\STUDY ASSISTANT\CÓDIGO FONTES\STUDY ASSISTANT  API\Study.Assistant\DataAcess\bin\Debug\net6.0\Business.pdb
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\STUDY ASSISTANT\CÓDIGO FONTES\STUDY ASSISTANT  API\Study.Assistant\DataAcess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\STUDY ASSISTANT\CÓDIGO FONTES\STUDY ASSISTANT  API\Study.Assistant\DataAcess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\STUDY ASSISTANT\CÓDIGO FONTES\STUDY ASSISTANT  API\Study.Assistant\DataAcess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\STUDY ASSISTANT\CÓDIGO FONTES\STUDY ASSISTANT  API\Study.Assistant\DataAcess\bin\Debug\net6.0\Users.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\STUDY ASSISTANT\CÓDIGO FONTES\STUDY ASSISTANT  API\Study.Assistant\DataAcess\bin\Debug\net6.0\Users.pdb
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\DataAcess\bin\Debug\net6.0\DataAccess.deps.json
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\DataAcess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\DataAcess\bin\Debug\net6.0\DataAccess.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\DataAcess\bin\Debug\net6.0\DataAccess.pdb
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\DataAcess\bin\Debug\net6.0\Business.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\DataAcess\bin\Debug\net6.0\Business.pdb
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\DataAcess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\DataAcess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\DataAcess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\DataAcess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\DataAcess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\DataAcess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\DataAcess\obj\Debug\net6.0\DataAccess.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\DataAcess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\DataAcess\obj\Debug\net6.0\DataAccess.pdb
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\DataAcess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_PROJETOS\Challenge\Challenge\DataAcess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\DataAcess\bin\Debug\net6.0\DataAccess.deps.json
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\DataAcess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\DataAcess\bin\Debug\net6.0\DataAccess.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\DataAcess\bin\Debug\net6.0\DataAccess.pdb
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\DataAcess\bin\Debug\net6.0\Business.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\DataAcess\bin\Debug\net6.0\Business.pdb
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\DataAcess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\DataAcess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\DataAcess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\DataAcess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\DataAcess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\DataAcess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\DataAcess\obj\Debug\net6.0\DataAccess.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\DataAcess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\DataAcess\obj\Debug\net6.0\DataAccess.pdb
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\DataAcess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\PROJETO VAI PASSAR\PontoTuristico-API\PontoTuristico-API\DataAcess\obj\Debug\net6.0\ref\DataAccess.dll
